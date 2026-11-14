@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Priyanshu Singh! 
 
-<!--
-**priyanshusingh0884/priyanshusingh0884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer | BSc CSDA Student at IIT Patna
 
-Here are some ideas to get you started:
+I'm a Computer Science and Data Analytics student passionate about building web applications, exploring new technologies and solving programming problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+
+Languages: Python, JavaScript, HTML, CSS
+
+Frontend: React.js, Redux, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB, Mongoose
+
+Tools: Git, GitHub, VS Code
+
+🚀 What I'm Working On
+
+Building full-stack web applications.
+
+Learning Next.js.
+
+Strengthening Data Structures and Algorithms.
+
+Improving my software development skills.
+
+🏆 Achievements
+
+Winner – CampusLoop Evidence Contest.
+
+📌 My Goals
+
+Build real-world applications.
+
+Improve problem-solving skills.
+
+Contribute to open-source projects.
+
+Secure a software development internship.
+
+🤝 Let's Connect
+
+LinkedIn: Coming Soon
